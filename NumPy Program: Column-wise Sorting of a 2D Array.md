@@ -1,9 +1,9 @@
 # NumPy Program: Column-wise Sorting of a 2D Array
 
-## 🎯 Aim
+## 🎯 Aim:
 To write a **NumPy** program that sorts the elements in each column of a given 2D array in ascending order.
 
-## 🧠 Algorithm
+## 🧠 Algorithm:
 
 1. **Import NumPy**: Start by importing the NumPy library.
 2. **Get Input**: Accept a 2D NumPy array from the user.
